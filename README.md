@@ -29,4 +29,4 @@ Interferencia
 
 Distorsión no lineal
 
-✅ Análisis de sobremodulación: Efectos de índices > 1
+-Análisis de sobremodulación: Efectos de índices > 1
